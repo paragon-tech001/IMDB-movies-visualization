@@ -1,4 +1,4 @@
-# IMDB-movies-visualization
+# <p align = "center"> IMDB-movies-visualization </p>
 
 ## Introduction 🔰
 
